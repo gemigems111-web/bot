@@ -1,0 +1,2 @@
+quotexapi>=1.0.0
+asyncio-atexit>=1.0.1
